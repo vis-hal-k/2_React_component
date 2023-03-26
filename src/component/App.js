@@ -6,7 +6,7 @@ function App() {
       <h1> My favourite food </h1>
       <ul>
         <li>Momos</li>
-        <li>DOos</li>
+        <li>Dosa</li>
         <li>Noodles</li>
       </ul>
     </div>
